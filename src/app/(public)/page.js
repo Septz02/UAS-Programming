@@ -44,9 +44,9 @@ export default function Dashboard() {
               </span>
             </button>
           </div>
-          <div>
-            <img className="w-64" src="images/dwi-septiadi.jpg" />
-          </div>
+          // <div>
+          //   <img className="w-64" src="images/dwi-septiadi.jpg" />
+          // </div>
         </div>
 
         <div className="mt-20 text-center">
